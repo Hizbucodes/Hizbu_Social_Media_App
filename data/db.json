@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Target is to Learn MongoDB and Mongoose",
+      "datetime": "September 03, 2023 11:39:51 AM",
+      "body": "It's very fast, can handle unstructured data efficiently, and provides better indexing and search operations than similar platforms. Another reason you should learn MongoDB is that it integrates very well with Node. js, the most widely used backend framework. It's simple to learn, and it makes developing with Node."
+    },
+    {
+      "id": 2,
+      "title": "Learning ReactJS",
+      "datetime": "September 02, 2023 6:27:17 PM",
+      "body": "React makes it painless to create interactive UIs. · Component-Based. Build encapsulated components that manage their own state"
+    },
+    {
+      "id": 3,
+      "title": "Build a Website using ReactJS",
+      "datetime": "September 03, 2023 6:50:19 PM",
+      "body": "By building websites only you can improve the ReactJS skills and makes you better programmer."
+    }
+  ]
+}
